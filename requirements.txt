@@ -1,0 +1,8 @@
+tensorflow>=2.16
+tensorflow-datasets
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+jupyter

@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+my_logs/
+checkpoints/
+*.keras
+*.h5
+.DS_Store
+Thumbs.db
